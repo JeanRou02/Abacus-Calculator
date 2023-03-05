@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.21b3d0db.css",
-    "main.js": "/react-gh-pages/static/js/main.d61a09a6.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.21b3d0db.css.map": "/react-gh-pages/static/css/main.21b3d0db.css.map",
-    "main.d61a09a6.js.map": "/react-gh-pages/static/js/main.d61a09a6.js.map"
+    "main.css": "/Abacus-Calculator/static/css/main.21b3d0db.css",
+    "main.js": "/Abacus-Calculator/static/js/main.d61a09a6.js",
+    "index.html": "/Abacus-Calculator/index.html",
+    "main.21b3d0db.css.map": "/Abacus-Calculator/static/css/main.21b3d0db.css.map",
+    "main.d61a09a6.js.map": "/Abacus-Calculator/static/js/main.d61a09a6.js.map"
   },
   "entrypoints": [
     "static/css/main.21b3d0db.css",
